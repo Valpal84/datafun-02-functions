@@ -1,0 +1,28 @@
+2023-09-03 19:42:32,559.user_easy_stats_valerie.INFO ==================================================
+2023-09-03 19:42:32,561.user_easy_stats_valerie.INFO Today is 2023-09-03 at 07:42 PM
+2023-09-03 19:42:32,562.user_easy_stats_valerie.INFO Running on: nt Windows 10
+2023-09-03 19:42:32,563.user_easy_stats_valerie.INFO Python version:  3.11.4
+2023-09-03 19:42:32,564.user_easy_stats_valerie.INFO Python path: C:\Users\Valer\AppData\Local\Programs\Python\Python311
+2023-09-03 19:42:32,565.user_easy_stats_valerie.INFO Working dir: C:\Users\Valer\Desktop\Lesson01\datafun-02-functions
+2023-09-03 19:42:32,566.user_easy_stats_valerie.INFO ==================================================
+2023-09-03 19:42:32,608.user_easy_stats_valerie.INFO Years collecting funds mean is 3
+2023-09-03 19:42:32,610.user_easy_stats_valerie.INFO Years collecting funds median is 3
+2023-09-03 19:42:32,611.user_easy_stats_valerie.INFO Years collecting funds mode is 1
+2023-09-03 19:42:32,612.user_easy_stats_valerie.INFO Total funds collected mean is 387081.4
+2023-09-03 19:42:32,613.user_easy_stats_valerie.INFO Total funds collected median is 432564
+2023-09-03 19:42:32,614.user_easy_stats_valerie.INFO Total funds collected mode is 234543
+2023-09-03 19:42:32,615.user_easy_stats_valerie.INFO Lowest years collecting funds is 1
+2023-09-03 19:42:32,616.user_easy_stats_valerie.INFO Highest years collecting funds is 5
+2023-09-03 19:42:32,617.user_easy_stats_valerie.INFO Lowest total funds collected is 234543
+2023-09-03 19:42:32,628.user_easy_stats_valerie.INFO Highest total funds collected is 503210
+2023-09-03 19:42:32,629.user_easy_stats_valerie.INFO Variance of years collecting funds is 2.5
+2023-09-03 19:42:32,631.user_easy_stats_valerie.INFO Variance in total funds collected is 10972568835.8
+2023-09-03 19:42:32,632.user_easy_stats_valerie.INFO Standard deviation of years collecting funds is 1.58
+2023-09-03 19:42:32,633.user_easy_stats_valerie.INFO Standard deviation of total funds collected is 104750.03
+2023-09-03 19:42:32,616.user_easy_stats_valerie.INFO Highest years collecting funds is 5
+2023-09-03 19:42:32,617.user_easy_stats_valerie.INFO Lowest total funds collected is 234543
+2023-09-03 19:42:32,628.user_easy_stats_valerie.INFO Highest total funds collected is 503210
+2023-09-03 19:42:32,629.user_easy_stats_valerie.INFO Variance of years collecting funds is 2.5
+2023-09-03 19:42:32,631.user_easy_stats_valerie.INFO Variance in total funds collected is 10972568835.8
+2023-09-03 19:42:32,632.user_easy_stats_valerie.INFO Standard deviation of years collecting funds is 1.58
+2023-09-03 19:42:32,633.user_easy_stats_valerie.INFO Standard deviation of total funds collected is 104750.03
